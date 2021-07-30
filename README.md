@@ -14,6 +14,7 @@ Developed by:
 - [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
 
 ## Description
+Our 
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
