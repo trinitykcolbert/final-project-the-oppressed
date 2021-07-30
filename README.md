@@ -24,6 +24,13 @@ Give a short description on what your project accomplishes and what tools is use
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
 1. Fork this repo
-2. Follow the link to the 
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+2. Follow the link to the original API repo
+3. Download the repo
+4. Create new folder in Google drive
+5. Upload downloaded file to that folder
+6. (Optional) Upload input video to that folder
+7. Mount Drive to colab
+8. Locate your drive in the colab
+9. Modify line 45 in vehicle_detection_main.py
+10. Run all code blocks in colab
+11. Enjoy your vehicle detection!!
