@@ -12,7 +12,6 @@ Developed by:
 - [Trinity Colbert](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
 - [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
 - [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 
 ## Description
 <!--
